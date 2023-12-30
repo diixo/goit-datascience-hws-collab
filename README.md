@@ -1,1 +1,1 @@
-## goit-collab
+## goit-datascience-hws-collab
